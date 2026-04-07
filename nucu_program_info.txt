@@ -1,3 +1,5 @@
+Document: NUCU Program Information                                            
+Course: BAIM 3300 - AI & Automation for Tomorrow's Societies
 
 ## Program Overview
 
