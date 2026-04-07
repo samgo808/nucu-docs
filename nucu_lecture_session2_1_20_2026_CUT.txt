@@ -1,9 +1,7 @@
-﻿## BAIM 3300 Lecture
-SESSION 2
-“Reinvention Under Pressure: Institutional Transformation
-Japan from Edo to Meiji (Pre-war): A Case Study”
-Jan 20, 2026
-
+Document: Reinvention Under Pressure: Institutional Transformation Japan from Edo to Meiji (Pre-war): A Case Study
+Lecture: Session 3
+Date: January 20, 2026                                                        
+Course: BAIM 3300 - AI & Automation for Tomorrow's Societies
 
 This week is the beginning of the formal content
 for our course, which is called AI
